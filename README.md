@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on C#
-- 🌱 I’m currently learning ASP.NET
+- 🌱 I’m currently learning ASP.NET Core
 - - 📫 How to reach me:[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/sametpolats/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue)](https://www.linkedin.com/in/polatsamet/)
  
 
